@@ -7,6 +7,8 @@ This repository has a different purpose from [`leetcode-solutions`](https://gith
 - **`leetcode-solutions`** is the automated archive of submitted solutions.
 - **This repository** records the reasoning behind a solution: examples, pseudocode, trade-offs, complexity and reimplementation across languages.
 
+Browse the [`PROGRESS.md`](./PROGRESS.md) index for the lessons and language coverage currently present. The index keeps file coverage separate from unrecorded mastery or recall claims.
+
 ## Learning loop
 
 For each exercise, the intended process is:
@@ -63,7 +65,7 @@ A solution is not considered learned merely because it passes. The aim is to be 
 
 ## Next improvements
 
-- Add a root index with pattern, difficulty, language coverage and complexity.
 - Add automated tests for each implementation.
-- Record revisit dates and whether a solution was reproduced from memory.
+- Record dated revisit evidence in [`PROGRESS.md`](./PROGRESS.md).
 - Link each lesson to one or more related LeetCode problems.
+- Broaden coverage into sliding windows, trees, heaps, intervals and dynamic programming.
